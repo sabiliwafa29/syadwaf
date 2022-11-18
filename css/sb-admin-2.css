@@ -386,6 +386,13 @@ h5, .h5 {
   font-size: 1.25rem;
 }
 
+.h52 {
+  margin-bottom: 0.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-align: center;
+}
+
 h6, .h6 {
   font-size: 1rem;
 }
